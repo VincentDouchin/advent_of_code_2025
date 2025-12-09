@@ -1,0 +1,13 @@
+[package]
+name = "advent_of_code_2025"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+disjoint = "0.8.0"
+hypermod = "0.2.0"
+itertools = "0.14.0"
+memoize = "0.5.1"
+range-set = "0.1.0"
+regex = "1.12.2"
+
